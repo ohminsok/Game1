@@ -7,7 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Character.h"
 
 @interface MINViewController : UIViewController
+- (IBAction)startPress:(UIButton *)sender;
+
+@property (strong, nonatomic) IBOutlet UITextField *enterName;
+
+@property Character *character;
+
 
 @end

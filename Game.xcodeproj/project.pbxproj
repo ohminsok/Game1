@@ -18,6 +18,18 @@
 		041173081650325B00CB33CD /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 041173071650325B00CB33CD /* Default-568h@2x.png */; };
 		0411730B1650325B00CB33CD /* MINViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0411730A1650325B00CB33CD /* MINViewController.m */; };
 		0411730E1650325B00CB33CD /* MINViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0411730C1650325B00CB33CD /* MINViewController.xib */; };
+		041173811650365100CB33CD /* Poland_Spring_logo_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 041173801650365100CB33CD /* Poland_Spring_logo_new.png */; };
+		04117386165037D000CB33CD /* MINGridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04117384165037D000CB33CD /* MINGridViewController.m */; };
+		04117387165037D000CB33CD /* MINGridViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04117385165037D000CB33CD /* MINGridViewController.xib */; };
+		04884AC61650434700768827 /* MINProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884AC41650434700768827 /* MINProfileViewController.m */; };
+		04884AC71650434700768827 /* MINProfileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04884AC51650434700768827 /* MINProfileViewController.xib */; };
+		04884ADC1650469A00768827 /* Tile.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884ADB1650469A00768827 /* Tile.m */; };
+		04884ADF165046BC00768827 /* Character.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884ADE165046BC00768827 /* Character.m */; };
+		04884AE2165046C300768827 /* Armor.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884AE1165046C300768827 /* Armor.m */; };
+		04884AE5165046CC00768827 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884AE4165046CC00768827 /* Item.m */; };
+		04884AE8165046D900768827 /* Monster.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884AE7165046D900768827 /* Monster.m */; };
+		04884AEB165046F700768827 /* Factory.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884AEA165046F600768827 /* Factory.m */; };
+		04884AEE1650479800768827 /* Weapon.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884AED1650479800768827 /* Weapon.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +49,27 @@
 		041173091650325B00CB33CD /* MINViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MINViewController.h; sourceTree = "<group>"; };
 		0411730A1650325B00CB33CD /* MINViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MINViewController.m; sourceTree = "<group>"; };
 		0411730D1650325B00CB33CD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MINViewController.xib; sourceTree = "<group>"; };
+		041173801650365100CB33CD /* Poland_Spring_logo_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Poland_Spring_logo_new.png; sourceTree = "<group>"; };
+		04117383165037D000CB33CD /* MINGridViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MINGridViewController.h; sourceTree = "<group>"; };
+		04117384165037D000CB33CD /* MINGridViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MINGridViewController.m; sourceTree = "<group>"; };
+		04117385165037D000CB33CD /* MINGridViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MINGridViewController.xib; sourceTree = "<group>"; };
+		04884AC31650434600768827 /* MINProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MINProfileViewController.h; sourceTree = "<group>"; };
+		04884AC41650434700768827 /* MINProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MINProfileViewController.m; sourceTree = "<group>"; };
+		04884AC51650434700768827 /* MINProfileViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MINProfileViewController.xib; sourceTree = "<group>"; };
+		04884ADA1650469A00768827 /* Tile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tile.h; sourceTree = "<group>"; };
+		04884ADB1650469A00768827 /* Tile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tile.m; sourceTree = "<group>"; };
+		04884ADD165046BC00768827 /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Character.h; sourceTree = "<group>"; };
+		04884ADE165046BC00768827 /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Character.m; sourceTree = "<group>"; };
+		04884AE0165046C300768827 /* Armor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Armor.h; sourceTree = "<group>"; };
+		04884AE1165046C300768827 /* Armor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Armor.m; sourceTree = "<group>"; };
+		04884AE3165046CC00768827 /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
+		04884AE4165046CC00768827 /* Item.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item.m; sourceTree = "<group>"; };
+		04884AE6165046D900768827 /* Monster.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Monster.h; sourceTree = "<group>"; };
+		04884AE7165046D900768827 /* Monster.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Monster.m; sourceTree = "<group>"; };
+		04884AE9165046F600768827 /* Factory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Factory.h; sourceTree = "<group>"; };
+		04884AEA165046F600768827 /* Factory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Factory.m; sourceTree = "<group>"; };
+		04884AEC1650479800768827 /* Weapon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Weapon.h; sourceTree = "<group>"; };
+		04884AED1650479800768827 /* Weapon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Weapon.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,9 +118,8 @@
 			children = (
 				041173001650325B00CB33CD /* MINAppDelegate.h */,
 				041173011650325B00CB33CD /* MINAppDelegate.m */,
-				041173091650325B00CB33CD /* MINViewController.h */,
-				0411730A1650325B00CB33CD /* MINViewController.m */,
-				0411730C1650325B00CB33CD /* MINViewController.xib */,
+				04884AC9165045DB00768827 /* ViewControllers */,
+				04884ACA165045EB00768827 /* Models */,
 				041172F81650325B00CB33CD /* Supporting Files */,
 			);
 			path = Game;
@@ -96,6 +128,7 @@
 		041172F81650325B00CB33CD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				041173801650365100CB33CD /* Poland_Spring_logo_new.png */,
 				041172F91650325B00CB33CD /* Game-Info.plist */,
 				041172FA1650325B00CB33CD /* InfoPlist.strings */,
 				041172FD1650325B00CB33CD /* main.m */,
@@ -105,6 +138,43 @@
 				041173071650325B00CB33CD /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04884AC9165045DB00768827 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				041173091650325B00CB33CD /* MINViewController.h */,
+				0411730A1650325B00CB33CD /* MINViewController.m */,
+				0411730C1650325B00CB33CD /* MINViewController.xib */,
+				04117383165037D000CB33CD /* MINGridViewController.h */,
+				04117384165037D000CB33CD /* MINGridViewController.m */,
+				04117385165037D000CB33CD /* MINGridViewController.xib */,
+				04884AC31650434600768827 /* MINProfileViewController.h */,
+				04884AC41650434700768827 /* MINProfileViewController.m */,
+				04884AC51650434700768827 /* MINProfileViewController.xib */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		04884ACA165045EB00768827 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				04884ADA1650469A00768827 /* Tile.h */,
+				04884ADB1650469A00768827 /* Tile.m */,
+				04884ADD165046BC00768827 /* Character.h */,
+				04884ADE165046BC00768827 /* Character.m */,
+				04884AE0165046C300768827 /* Armor.h */,
+				04884AE1165046C300768827 /* Armor.m */,
+				04884AE3165046CC00768827 /* Item.h */,
+				04884AE4165046CC00768827 /* Item.m */,
+				04884AE6165046D900768827 /* Monster.h */,
+				04884AE7165046D900768827 /* Monster.m */,
+				04884AE9165046F600768827 /* Factory.h */,
+				04884AEA165046F600768827 /* Factory.m */,
+				04884AEC1650479800768827 /* Weapon.h */,
+				04884AED1650479800768827 /* Weapon.m */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +234,9 @@
 				041173061650325B00CB33CD /* Default@2x.png in Resources */,
 				041173081650325B00CB33CD /* Default-568h@2x.png in Resources */,
 				0411730E1650325B00CB33CD /* MINViewController.xib in Resources */,
+				041173811650365100CB33CD /* Poland_Spring_logo_new.png in Resources */,
+				04117387165037D000CB33CD /* MINGridViewController.xib in Resources */,
+				04884AC71650434700768827 /* MINProfileViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +250,15 @@
 				041172FE1650325B00CB33CD /* main.m in Sources */,
 				041173021650325B00CB33CD /* MINAppDelegate.m in Sources */,
 				0411730B1650325B00CB33CD /* MINViewController.m in Sources */,
+				04117386165037D000CB33CD /* MINGridViewController.m in Sources */,
+				04884AC61650434700768827 /* MINProfileViewController.m in Sources */,
+				04884ADC1650469A00768827 /* Tile.m in Sources */,
+				04884ADF165046BC00768827 /* Character.m in Sources */,
+				04884AE2165046C300768827 /* Armor.m in Sources */,
+				04884AE5165046CC00768827 /* Item.m in Sources */,
+				04884AE8165046D900768827 /* Monster.m in Sources */,
+				04884AEB165046F700768827 /* Factory.m in Sources */,
+				04884AEE1650479800768827 /* Weapon.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +340,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Game/Game-Prefix.pch";
 				INFOPLIST_FILE = "Game/Game-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -269,6 +352,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Game/Game-Prefix.pch";
 				INFOPLIST_FILE = "Game/Game-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -293,6 +377,7 @@
 				041173131650325B00CB33CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
