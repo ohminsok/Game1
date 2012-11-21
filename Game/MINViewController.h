@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "Character.h"
+#import "MINwarewolf.h"
 
 @interface MINViewController : UIViewController
 - (IBAction)startPress:(UIButton *)sender;
@@ -15,6 +16,9 @@
 @property (strong, nonatomic) IBOutlet UITextField *enterName;
 
 @property Character *character;
+@property MINwarewolf *warewolf;
+
+@property Character *character2;
 
 
 @end

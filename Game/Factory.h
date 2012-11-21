@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "Armor.h"
 #import "Weapon.h"
+#import "Item.h"
 //import additional classes later - HW, i.e. Item
 
 
@@ -18,6 +19,7 @@
 
 -(NSArray *) createWeapons;
 -(NSArray *) createArmors;
+-(NSArray *) createItems;
 
 
 @end

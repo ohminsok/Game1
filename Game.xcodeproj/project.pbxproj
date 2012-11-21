@@ -21,6 +21,7 @@
 		041173811650365100CB33CD /* Poland_Spring_logo_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 041173801650365100CB33CD /* Poland_Spring_logo_new.png */; };
 		04117386165037D000CB33CD /* MINGridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04117384165037D000CB33CD /* MINGridViewController.m */; };
 		04117387165037D000CB33CD /* MINGridViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04117385165037D000CB33CD /* MINGridViewController.xib */; };
+		0480723C165C4A2900ED0E2E /* MINwarewolf.m in Sources */ = {isa = PBXBuildFile; fileRef = 0480723B165C4A2900ED0E2E /* MINwarewolf.m */; };
 		04884AC61650434700768827 /* MINProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884AC41650434700768827 /* MINProfileViewController.m */; };
 		04884AC71650434700768827 /* MINProfileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04884AC51650434700768827 /* MINProfileViewController.xib */; };
 		04884ADC1650469A00768827 /* Tile.m in Sources */ = {isa = PBXBuildFile; fileRef = 04884ADB1650469A00768827 /* Tile.m */; };
@@ -53,6 +54,8 @@
 		04117383165037D000CB33CD /* MINGridViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MINGridViewController.h; sourceTree = "<group>"; };
 		04117384165037D000CB33CD /* MINGridViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MINGridViewController.m; sourceTree = "<group>"; };
 		04117385165037D000CB33CD /* MINGridViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MINGridViewController.xib; sourceTree = "<group>"; };
+		0480723A165C4A2900ED0E2E /* MINwarewolf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MINwarewolf.h; sourceTree = "<group>"; };
+		0480723B165C4A2900ED0E2E /* MINwarewolf.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MINwarewolf.m; sourceTree = "<group>"; };
 		04884AC31650434600768827 /* MINProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MINProfileViewController.h; sourceTree = "<group>"; };
 		04884AC41650434700768827 /* MINProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MINProfileViewController.m; sourceTree = "<group>"; };
 		04884AC51650434700768827 /* MINProfileViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MINProfileViewController.xib; sourceTree = "<group>"; };
@@ -169,6 +172,8 @@
 				04884AE4165046CC00768827 /* Item.m */,
 				04884AE6165046D900768827 /* Monster.h */,
 				04884AE7165046D900768827 /* Monster.m */,
+				0480723A165C4A2900ED0E2E /* MINwarewolf.h */,
+				0480723B165C4A2900ED0E2E /* MINwarewolf.m */,
 				04884AE9165046F600768827 /* Factory.h */,
 				04884AEA165046F600768827 /* Factory.m */,
 				04884AEC1650479800768827 /* Weapon.h */,
@@ -259,6 +264,7 @@
 				04884AE8165046D900768827 /* Monster.m in Sources */,
 				04884AEB165046F700768827 /* Factory.m in Sources */,
 				04884AEE1650479800768827 /* Weapon.m in Sources */,
+				0480723C165C4A2900ED0E2E /* MINwarewolf.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

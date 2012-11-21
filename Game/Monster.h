@@ -10,4 +10,6 @@
 
 @interface Monster : NSObject
 
+@property NSString *skinColor;
+
 @end

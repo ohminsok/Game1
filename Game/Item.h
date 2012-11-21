@@ -10,4 +10,9 @@
 
 @interface Item : NSObject
 
+
+@property (strong, nonatomic) NSString *name;
+@property (nonatomic) int point;
+
+
 @end

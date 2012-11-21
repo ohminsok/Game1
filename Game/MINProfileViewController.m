@@ -28,6 +28,10 @@
     
     _character.health = 1000;
     _weaponLabel.text =  _character.weapon.name;
+    _armorLabel.text = _character.armor.name;
+    _itemLabel.text = _character.item.name;
+    
+    
     
     _health.text = [[NSString alloc] initWithFormat:@"%i",_character.health];
     _damage.text = [[NSString alloc] initWithFormat:@"%i",_character.damaage];

@@ -13,6 +13,9 @@
 @property (strong, nonatomic) IBOutlet UILabel *health;
 @property (strong, nonatomic) IBOutlet UILabel *damage;
 @property (strong, nonatomic) IBOutlet UILabel *weaponLabel;
+@property (strong, nonatomic) IBOutlet UILabel *armorLabel;
+@property (strong, nonatomic) IBOutlet UILabel *itemLabel;
+
 - (IBAction)goBack:(UIButton *)sender;
 
 @property Character *character;

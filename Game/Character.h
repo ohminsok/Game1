@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "Weapon.h"
 #import "Armor.h"
+#import "Item.h"
 
 @interface Character : NSObject
 
@@ -20,6 +21,7 @@
 
 @property (strong, nonatomic) Weapon *weapon;
 @property (strong, nonatomic) Armor *armor;
+@property (strong, nonatomic) Item *item;
 
 +(id) characterAttributeStore;
 

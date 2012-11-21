@@ -47,6 +47,20 @@
     
 }
 
-
+-(NSArray *) createItems{
+    Item *fairy = [[Item alloc] init];
+    fairy.name = @"wings";
+    fairy.point = 10;
+    
+    Item *elf = [[Item alloc] init];
+    elf.name = @"shorty";
+    
+    NSArray *items = [[NSArray alloc] initWithObjects: fairy, elf, nil];
+    return items;
+    
+    
+    
+    
+}
 
 @end
